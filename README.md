@@ -14,4 +14,5 @@
 - HTML5
 - CSS3 (or Tailwind CSS/Bootstrap if used)
 - JavaScript (Vanilla or framework)
-- [Optional] Any backend (Node.js, Firebase, etc.)
+-  Any backend (Node.js)
+
